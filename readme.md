@@ -1,5 +1,3 @@
-# JavaScript DOM & Events Interview Notes
-
 ## 1. Difference between `getElementById`, `getElementsByClassName`, `querySelector`, and `querySelectorAll`
 
 ### `getElementById(id)`
